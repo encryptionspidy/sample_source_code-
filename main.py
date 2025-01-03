@@ -49,7 +49,7 @@ falcon_model = AutoModelForCausalLM.from_pretrained(
 )
 
 # Google Fact Check API Key
-GOOGLE_API_KEY = "AIzaSyBGDTrWw444dgMox6oZySAh6tEoVsPi2TE"
+GOOGLE_API_KEY = "screctkey"
 
 # Define source credibility weights
 SOURCE_WEIGHTS = {
