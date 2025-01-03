@@ -3,7 +3,7 @@ import re
 from urllib.parse import urlparse
 
 # Your API Key for the Fact Check Tools API
-API_KEY = "AIzaSyBGDTrWw444dgMox6oZySAh6tEoVsPi2TE"
+API_KEY = "secrect key"
 
 # Fact Check Tools API Endpoint
 FACT_CHECK_API_URL = "https://factchecktools.googleapis.com/v1alpha1/claims:search"
